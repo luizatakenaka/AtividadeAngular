@@ -28,4 +28,4 @@ O projeto inicial já possui um serviço que busca informações de endereço a 
 
 O projeto deve ser entregue como um repositório Git, contendo todos os arquivos necessários para executar o aplicativo. Inclua também um README com instruções de instalação e uso, bem como quaisquer outras informações que você considere relevantes.
 
-Boa sorte!
+Boa sorte
