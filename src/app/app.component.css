@@ -1,0 +1,68 @@
+/* body {
+  min-height:100vh;
+}
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.buscar {
+  margin: 0 0 0 5px;
+}
+.btn {
+  margin-top: 15px; 
+  background: #20b2aa;
+  color: #fff;
+  padding: 3px 10px;
+  margin: 0 0 0 300px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  line-height: 24px;
+  cursor: pointer;
+  vertical-align: bottom;
+
+}
+
+.btn:hover {
+  background:#207c77;
+}
+.campos {
+  text-indent: 300px;
+  font-size: 20px;
+}
+#name {width: 300px;
+  margin-bottom: 15px; 
+}
+#cpf {
+  width: 85px;
+  margin-bottom: 15px; 
+
+}
+#email {
+  width: 200px;
+  margin-bottom: 15px; 
+
+}
+#telefone{
+  width: 80px;
+  margin-bottom: 15px; 
+
+}
+#datanascimento {
+  width: 110px;
+  margin-bottom: 15px; 
+
+}
+#cep{
+  width: 65px;
+  margin-bottom: 15px; 
+
+}
+#adress {
+  width: 115px;
+  margin-bottom: 15px; 
+
+} */
